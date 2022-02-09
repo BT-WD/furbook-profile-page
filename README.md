@@ -74,8 +74,6 @@ to:
 <img src={pic} class="pic" />
 ```
 
-We will discuss how to import pictures into a React project in the next lecture, but for now this should do the trick.
-
 #### 3. The About Me Section
 While the file for the about me component has been created, there is very little code provided.
 
