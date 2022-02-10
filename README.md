@@ -5,16 +5,9 @@
 ## The Goal
 Looks like Furbook has really taken off in popularity among the world's pets! The only problem is, our website has been slow to scale and our valued pet users are complaining about how long it takes to load other pets profiles. As a result, we need to refactor the profile section of the website, which is written in plain HTML, into a React web page.
 
-
-
 ## Getting Started
-
-1. Clone this repository using `git clone`
-2. `cd` into the `html-to-react-refactor` folder
-3. `npm install`
-4. `npm start`
-
-Once everything is installed and you have started up the website, check out how the website looks so far.
+Load this repo into 
+https://codesandbox.io/ using the import wizard here https://codesandbox.io/s/github
 
 ## The Lab
 
@@ -85,4 +78,4 @@ Oh, and don't forget to copy the CSS from the original website as well.
 You are on your own now. You will need to create your own file for this component and complete the necessary steps to add the component to the web page.
 
 ## Extension
-Create your own component for the profile page. Look for inspiration from other social media sites. Perhaps there should be a section for friends each pet has, or interest groups they have joined. It's up to you!
+Create your own component for the profile page. Look for inspiration from other social media sites. Perhaps there should be a section for friends each pet has, or interest groups they have joined. It's up to you!  Write a paragraph in which you explain your component and show code snippets to support your explanation.
